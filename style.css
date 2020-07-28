@@ -7,15 +7,21 @@ body{
 }
 
 div{
-margin-top: 50px;
-margin-bottom: 7px;
-padding-top: 50px;
-padding-bottom: 50px;
-border: black 2px solid;
+    margin-top: 50px;
+    margin-bottom: 7px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    border: black 2px solid;
 
 }
 
 hr{
     color: black;
 
+}
+img{
+    background-color: pink;
+    width: 900px;
+    height: 1000px;
+    margin-left: 260px;
 }
